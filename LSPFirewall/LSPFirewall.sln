@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FirewallDll", "FirewallDll\FirewallDll.vcxproj", "{4EE2E85D-2957-413D-A50E-BBD44D29061B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FirewallService", "FirewallService\FirewallService.vcxproj", "{7FCF88EF-837C-4F3F-B890-42051E807FE2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FirewallGUI", "FirewallGUI\FirewallGUI.vcxproj", "{5515AAFB-5190-4A5F-B3E9-440E3114261D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EE2E85D-2957-413D-A50E-BBD44D29061B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4EE2E85D-2957-413D-A50E-BBD44D29061B}.Debug|Win32.Build.0 = Debug|Win32
+		{4EE2E85D-2957-413D-A50E-BBD44D29061B}.Release|Win32.ActiveCfg = Release|Win32
+		{4EE2E85D-2957-413D-A50E-BBD44D29061B}.Release|Win32.Build.0 = Release|Win32
+		{7FCF88EF-837C-4F3F-B890-42051E807FE2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7FCF88EF-837C-4F3F-B890-42051E807FE2}.Debug|Win32.Build.0 = Debug|Win32
+		{7FCF88EF-837C-4F3F-B890-42051E807FE2}.Release|Win32.ActiveCfg = Release|Win32
+		{7FCF88EF-837C-4F3F-B890-42051E807FE2}.Release|Win32.Build.0 = Release|Win32
+		{5515AAFB-5190-4A5F-B3E9-440E3114261D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5515AAFB-5190-4A5F-B3E9-440E3114261D}.Debug|Win32.Build.0 = Debug|Win32
+		{5515AAFB-5190-4A5F-B3E9-440E3114261D}.Release|Win32.ActiveCfg = Release|Win32
+		{5515AAFB-5190-4A5F-B3E9-440E3114261D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
